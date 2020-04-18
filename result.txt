@@ -1,0 +1,6 @@
+another	1
+brain	1
+bus	7
+car	7
+train	3
+word	2
